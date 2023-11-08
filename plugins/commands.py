@@ -26,7 +26,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/godmode_support"),
-                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/Request_bots')
+                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/+sgwgAra_96hlNGNl')
                 ],[
                     InlineKeyboardButton('🔗 MAIN CHANNEL🔗', url=CHNL_LNK)
                   ]]
@@ -43,9 +43,6 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-                    InlineKeyboardButton('🔶 GROUP 1🔶', url="https://t.me/request_bots"),
-                    InlineKeyboardButton('🔶 GROUP 2🔶', url='https://t.me/+JBAQJvocrkBhMmNl')
-                ],[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -94,9 +91,6 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-                    InlineKeyboardButton('🔶 GROUP 1🔶', url="https://t.me/request_bots"),
-                    InlineKeyboardButton('🔶 GROUP 2🔶', url='https://t.me/+JBAQJvocrkBhMmNl')
-                ],[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -154,7 +148,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton('⌬ MᴏᴠɪᴇS Gʀᴏᴜᴘ', url='https://t.me/Request_bots'),
+                                InlineKeyboardButton('⌬ MᴏᴠɪᴇS Gʀᴏᴜᴘ', url='https://t.me/+sgwgAra_96hlNGNl'),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],
                             [
@@ -174,7 +168,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                         InlineKeyboardButton('⌬ MᴏᴠɪᴇS Gʀᴏᴜᴘ', url='https://t.me/Request_bots'),
+                         InlineKeyboardButton('⌬ MᴏᴠɪᴇS Gʀᴏᴜᴘ', url='https://t.me/+sgwgAra_96hlNGNl'),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],
                          [ 
