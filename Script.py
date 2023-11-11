@@ -223,13 +223,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 
 Join: @moviesworldtms
-@moviesworldtms
-@moviesworldtms
-@moviesworldtms
-@moviesworldtms
+https://t.me/moviesworldtms
 
 
-Request group : https://t.me/moviesreqgroup
+Join all the channel: 👇
+https://t.me/addlist/hcHbDqEWY41kYWU1
+
+Discussion group👇👇❤️ https://t.me/moviediscussiongroup4
 
 
 Our Instagram link : https://instagram.com/maskupodu?igshid=MWQ1ZGUxMzBkMA==""" 
